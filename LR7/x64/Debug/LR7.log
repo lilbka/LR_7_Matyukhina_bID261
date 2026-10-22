@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\user\Desktop\Алгоритмизация\LR7\LR7\Source.c(70,16): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  LR7.vcxproj -> C:\Users\user\Desktop\Алгоритмизация\LR7\x64\Debug\LR7.exe
