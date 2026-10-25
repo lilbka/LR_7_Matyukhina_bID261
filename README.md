@@ -5,6 +5,10 @@ https://sun9-37.vkuserphoto.ru/s/v1/ig2/uDr6IIm0WrpxFc3glPxT-0o-7Xq043gWti1Dj8o2
 ## 1. Условие задачи номер 3 (вариант 18)
 Напишите программу, которая интерпретирует степени 2 в соответствующие приставки (10 – K, 20 – M, G, T, P, E).
 
+## Блок-схема к заданию 3
+
+https://sun9-52.vkuserphoto.ru/s/v1/ig2/zN3xqZvYKwUlN6r4R6UcNkH3UOQf3ObeEzaNrqx_dWN94QZg1l0DE56vErRM2Sgbv_SswxtYkXW1HuaByj_yuuQL.jpg?quality=95&as=32x17,48x26,72x39,108x59,160x87,240x130,360x195,480x261,540x293,640x347,720x391,1080x586,1280x695&from=bu&u=NQUnjnC45cJOLUig6uZfEYaHxp1N9B2WoDG8VOFp3us&cs=1280x0
+
 ## 2. Реализация программы
 #define _CRT_SECURE_NO_WARNINGS
 #define _USE_MATH_DEFINES 
